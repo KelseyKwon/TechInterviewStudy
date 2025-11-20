@@ -9,9 +9,9 @@
 ---
 ## 🧑🏻‍🏫 멤버
 
-|남소미|김채현|이동현|한수정|
-|------|---|---|---|
-|<a href="https://github.com/somi4219"><img src="https://avatars.githubusercontent.com/u/125250173?v=4" height="120px"></a> |<a href="https://github.com/imddoy"><img src="https://avatars.githubusercontent.com/u/90364711?s=130&v=4" height="120px"></a> |<a href="https://github.com/dhlee777"><img src="https://avatars.githubusercontent.com/u/117627976?s=130&v=4" height="120px"></a>|<a href="https://github.com/hansoojeongsj"><img src="https://avatars.githubusercontent.com/u/90364839?s=130&v=4" height="120px"></a>
+|남소미|김채현|한수정|
+|------|---|---|
+|<a href="https://github.com/somi4219"><img src="https://avatars.githubusercontent.com/u/125250173?v=4" height="120px"></a> |<a href="https://github.com/imddoy"><img src="https://avatars.githubusercontent.com/u/90364711?s=130&v=4" height="120px"></a> |<a href="https://github.com/hansoojeongsj"><img src="https://avatars.githubusercontent.com/u/90364839?s=130&v=4" height="120px"></a>
 
 ---
 
